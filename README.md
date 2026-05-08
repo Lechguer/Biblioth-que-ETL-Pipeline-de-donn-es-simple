@@ -114,8 +114,3 @@ jupyter notebook analyse.ipynb
 | `df.to_csv()` | `load.py` |
 | `df.value_counts()` | `analyse.ipynb` |
 
----
-
-## 📄 License
-
-MIT — free to use, modify, and share.
