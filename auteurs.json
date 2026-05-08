@@ -1,0 +1,80 @@
+[
+  {
+    "nom": "Antoine de Saint-Exupéry",
+    "nationalite": "Français",
+    "naissance": 1900,
+    "deces": 1944
+  },
+  {
+    "nom": "George Orwell",
+    "nationalite": "Britannique",
+    "naissance": 1903,
+    "deces": 1950
+  },
+  {
+    "nom": "Albert Camus",
+    "nationalite": "Français",
+    "naissance": 1913,
+    "deces": 1960
+  },
+  {
+    "nom": "Frank Herbert",
+    "nationalite": "Américain",
+    "naissance": 1920,
+    "deces": 1986
+  },
+  {
+    "nom": "J.K. Rowling",
+    "nationalite": "Britannique",
+    "naissance": 1965,
+    "deces": null
+  },
+  {
+    "nom": "J.R.R. Tolkien",
+    "nationalite": "Britannique",
+    "naissance": 1892,
+    "deces": 1973
+  },
+  {
+    "nom": "Yuval Noah Harari",
+    "nationalite": "Israélien",
+    "naissance": 1976,
+    "deces": null
+  },
+  {
+    "nom": "Victor Hugo",
+    "nationalite": "Français",
+    "naissance": 1802,
+    "deces": 1885
+  },
+  {
+    "nom": "Ray Bradbury",
+    "nationalite": "Américain",
+    "naissance": 1920,
+    "deces": 2012
+  },
+  {
+    "nom": "Alexandre Dumas",
+    "nationalite": "Français",
+    "naissance": 1802,
+    "deces": 1870
+  },
+  {
+    "nom": "Robert C. Martin",
+    "nationalite": "Américain",
+    "naissance": 1952,
+    "deces": null
+  },
+  {
+    "nom": "Isaac Asimov",
+    "nationalite": "Américain",
+    "naissance": 1920,
+    "deces": 1992
+  },
+  {
+    "nom": "Paulo Coelho",
+    "nationalite": "Brésilien",
+    "naissance": 1947,
+    "deces": null
+  }
+]
